@@ -1,5 +1,7 @@
 # 资产配置助手 · Asset Allocation Advisor
 
+[![Release](https://img.shields.io/github/v/release/shoplize/asset-allocation-advisor)](https://github.com/shoplize/asset-allocation-advisor/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 一个面向**普通投资者**的 AI Agent Skill：把「钱该怎么放」这种模糊、焦虑、信息不全的日常提问，
 翻译成**看得懂、做得到、能检查、可修正**的资产配置方案。
 
@@ -31,11 +33,11 @@
 
 ```bash
 # WorkBuddy（用户级）
-git clone https://github.com/<your-name>/asset-allocation-advisor.git \
+git clone https://github.com/shoplize/asset-allocation-advisor.git \
   ~/.workbuddy/skills/asset-allocation-advisor
 
 # Claude Code（用户级）
-git clone https://github.com/<your-name>/asset-allocation-advisor.git \
+git clone https://github.com/shoplize/asset-allocation-advisor.git \
   ~/.claude/skills/asset-allocation-advisor
 ```
 
